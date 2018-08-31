@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-17-orientacao-a-objetos-abstracao\aula-17-orientacao-a-objetos-abstracao\bin\Debug\aula-17-orientacao-a-objetos-abstracao.exe.config
+C:\Users\nicol\source\repos\aula-17-orientacao-a-objetos-abstracao\aula-17-orientacao-a-objetos-abstracao\bin\Debug\aula-17-orientacao-a-objetos-abstracao.exe
+C:\Users\nicol\source\repos\aula-17-orientacao-a-objetos-abstracao\aula-17-orientacao-a-objetos-abstracao\bin\Debug\aula-17-orientacao-a-objetos-abstracao.pdb
+C:\Users\nicol\source\repos\aula-17-orientacao-a-objetos-abstracao\aula-17-orientacao-a-objetos-abstracao\obj\Debug\aula-17-orientacao-a-objetos-abstracao.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-17-orientacao-a-objetos-abstracao\aula-17-orientacao-a-objetos-abstracao\obj\Debug\aula-17-orientacao-a-objetos-abstracao.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-17-orientacao-a-objetos-abstracao\aula-17-orientacao-a-objetos-abstracao\obj\Debug\aula-17-orientacao-a-objetos-abstracao.exe
+C:\Users\nicol\source\repos\aula-17-orientacao-a-objetos-abstracao\aula-17-orientacao-a-objetos-abstracao\obj\Debug\aula-17-orientacao-a-objetos-abstracao.pdb
